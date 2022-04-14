@@ -32,7 +32,7 @@ int main(void) {
 	int diferenciaDePrecio;
 	int resultados;
 	int precioConTarjetaCredito;
-	int precioConTarjetaDebito;
+	int precioConTarjetaDebito; // huwhoiwehfñhgfoaghoihfioabhib vnoigbnuirtu
 	int salir;
 	int validacionDeRetorno;
 
